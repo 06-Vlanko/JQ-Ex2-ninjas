@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+main {
+    margin: 0px auto;
+    width: 950px;
+    padding-top: 20px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid grey;
+}
+button {
+    padding: 10px;
+    margin-left: 10px;
+}
